@@ -1,1 +1,2 @@
-# MMC_Battery_Project_UTS_TL_2022
+# UTS_TL_MMC_Project_2022
+2022 Multi-level converter project
