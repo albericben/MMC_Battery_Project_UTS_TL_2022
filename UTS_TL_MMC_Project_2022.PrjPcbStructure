@@ -5,5 +5,3 @@ Record=SheetSymbol|SourceDocument=UTS_Batt_MMC.SchDoc|Designator=U_Gate_Driver1|
 Record=SheetSymbol|SourceDocument=UTS_Batt_MMC.SchDoc|Designator=U_Gate_Driver2|SchDesignator=U_Gate_Driver2|FileName=Gate_Driver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Gate_Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=UTS_Batt_MMC.SchDoc|Designator=U_Gate_Driver3|SchDesignator=U_Gate_Driver3|FileName=Gate_Driver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Gate_Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=UTS_Batt_MMC.SchDoc|Designator=U_Gate_Driver4|SchDesignator=U_Gate_Driver4|FileName=Gate_Driver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Gate_Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=UTS_Batt_MMC.SchDoc|FileName=H_Bridge_1.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=UTS_Batt_MMC.SchDoc|FileName=H_Bridge_2.SchDoc|SheetNumber=5
